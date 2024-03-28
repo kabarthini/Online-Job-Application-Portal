@@ -1,0 +1,149 @@
+.job-description {
+    margin: 20px;
+    padding: 20px;
+    border: 1px solid #c64e4e;
+    border-radius: 5px;
+    background-color: white;
+    position: relative;
+    margin-top: -70px;
+  }
+  
+  .company-info, .job-details, .contact-info {
+    margin-bottom: 30px;
+    font-size: 17px;
+  }
+  
+  .job-details h3, .job-details h4 {
+    margin-top: 30px;
+  }
+  
+  .contact-info h3 {
+    margin-top: 20px;
+  }
+  .symbol
+  {
+    position: relative;
+    height: 30px;
+    width:30px;
+  }
+  .SAP
+  {
+    position: relative;
+    left:70px;
+    top:-10px;
+  }
+  .wood
+  {
+    position: relative;
+    font-size: 17px;
+    left:70px;
+    color: grey;
+    top:-10px;
+  }
+  .workfrom
+  {
+    position: relative;
+    font-size: 19px;
+    top:30px;
+    left:40px;
+
+  }
+  .home
+  {
+    position: relative;
+    left:-30px;
+    top:25px;
+  }
+  .cur
+  {
+    position: relative;
+    top:23px;
+    left:-27px;
+  }
+  .money
+  {
+    position: relative;
+    font-size: 17px;
+    top:35px;
+    left:40px;
+  }
+  .rectangle-box {
+    border-color: black;
+    background-color: rgba(128, 128, 128, 0.162);
+    border-radius: 5px;
+    padding: 10px;
+    margin-bottom: 10px;
+    top:50px;
+    position: relative;
+    height: 100px;
+  }
+  .fixed
+  {
+    font-size: 20px;
+    position:relative;
+    left: 100px;
+  }
+  .earning
+  {
+    position: relative;
+    font-size: 20px;
+    left: 500px;
+    top:-23px;
+  }
+  .ear{
+    position: relative;
+    left:100px;
+}
+.earn{
+    position: relative;
+    left:500px;
+    top:-20px;
+
+}
+.fulltime
+{
+    position: relative;
+    top:50px;
+    left:110px;
+
+}
+.min
+{
+    position: relative;
+    left:200px;
+    top:31px;
+
+}
+  
+.basic
+{
+    position: relative;
+    left:310px;
+    top:11px;
+    
+}
+.apply-button {
+    background-color: #1c421c; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 18px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 8px;
+    position: relative;
+    top:20px;
+    width:200px;
+  }
+  
+  .apply-button:hover {
+    background-color: #021f03;
+  }
+  .apply-button a{
+    text-decoration: none;
+    color: white;
+  }
+  

@@ -1,0 +1,294 @@
+.jobpost {
+    position: relative;
+    font-size: 25px;
+    left: 750px;
+    top: 50px;
+    color: rgba(79, 130, 19, 0.804);
+}
+
+.card22 {
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 350px;
+    margin: 0 auto;
+    padding: 20px;
+    position: relative;
+    top: 100px;
+    left: -300px;
+    height: 350px;
+}
+
+.card-content22 {
+    text-align: center;
+}
+
+.card-content22 h2 {
+    color: #0d3767;
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+.card-content22 h3 {
+    color: #a41e12de;
+    font-size: 20px;
+    margin-bottom: 10px;
+    position: relative;
+    top: 13px;
+}
+
+.card-content22 p {
+    color: #090808;
+    font-size: 16px;
+}
+
+.job-info22 p {
+    text-align: left;
+    color: #040404;
+    font-size: 30px;
+}
+
+.salary22 {
+    font-size: 20px;
+    position: relative;
+    top: 20px;
+}
+
+.mode22 {
+    font-size: 20px;
+    top: 30px;
+    position: relative;
+}
+
+.time22 {
+    font-size: 20px;
+    top: 40px;
+    position: relative;
+}
+
+.shift22 {
+    font-size: 20px;
+    top: 50px;
+    position: relative;
+}
+
+/* Style for the post and delete buttons */
+.buttons {
+    margin-top: 20px;
+   
+}
+
+.buttons button {
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 20px;
+    margin-right: 10px;
+    cursor: pointer;
+    position: relative;
+    top: 70px;
+    font-size: 15px;
+    width:100px;
+}
+
+.buttons .deleteButton {
+    background-color: #dc3545; /* Red color for delete button */
+    color: white;
+  }
+
+.buttons button:hover {
+    background-color: #0056b3;
+}
+
+
+.card229 {
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 350px;
+    margin: 0 auto;
+    padding: 20px;
+    position: relative;
+    top: -245px;
+    left: 130px;
+    height: 350px;
+}
+
+.card-content229 {
+    text-align: center;
+}
+
+.card-content229 h2 {
+    color: #0d3767;
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+.card-content229 h3 {
+    color: #a41e12de;
+    font-size: 20px;
+    margin-bottom: 10px;
+    position: relative;
+    top: 13px;
+}
+
+.card-content229 p {
+    color: #090808;
+    font-size: 16px;
+}
+
+.job-info229 p {
+    text-align: left;
+    color: #040404;
+    font-size: 30px;
+}
+
+.salary229 {
+    font-size: 20px;
+    position: relative;
+    top: 20px;
+}
+
+.mode229 {
+    font-size: 20px;
+    top: 30px;
+    position: relative;
+}
+
+.time229 {
+    font-size: 20px;
+    top: 40px;
+    position: relative;
+}
+
+.shift229 {
+    font-size: 20px;
+    top: 50px;
+    position: relative;
+}
+
+/* Style for the post and delete buttons */
+.buttons9 {
+    margin-top: 20px;
+   
+}
+
+.buttons9 button {
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 20px;
+    margin-right: 10px;
+    cursor: pointer;
+    position: relative;
+    top: 70px;
+    font-size: 15px;
+    width:100px;
+}
+
+.buttons9 .deleteButton9 {
+    background-color: #dc3545; /* Red color for delete button */
+    color: white;
+  }
+
+.buttons9 button:hover {
+    background-color: #0056b3;
+}
+
+
+.card2291 {
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 350px;
+    margin: 0 auto;
+    padding: 20px;
+    position: relative;
+    margin-top:-350px;
+    left: 550px;
+    height: 350px;
+}
+
+.card-content2291 {
+    text-align: center;
+}
+
+.card-content2291 h2 {
+    color: #0d3767;
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+.card-content2291 h3 {
+    color: #a41e12de;
+    font-size: 20px;
+    margin-bottom: 10px;
+    position: relative;
+    top: 13px;
+}
+
+.card-content2291 p {
+    color: #090808;
+    font-size: 16px;
+}
+
+.job-info2291 p {
+    text-align: left;
+    color: #040404;
+    font-size: 30px;
+}
+
+.salary2291 {
+    font-size: 20px;
+    position: relative;
+    top: 20px;
+}
+
+.mode2291 {
+    font-size: 20px;
+    top: 30px;
+    position: relative;
+}
+
+.time2291 {
+    font-size: 20px;
+    top: 40px;
+    position: relative;
+}
+
+.shift2291 {
+    font-size: 20px;
+    top: 50px;
+    position: relative;
+}
+
+/* Style for the post and delete buttons */
+.buttons91 {
+    margin-top: 20px;
+   
+}
+
+.buttons91 button {
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 20px;
+    margin-right: 10px;
+    cursor: pointer;
+    position: relative;
+    top: 70px;
+    font-size: 15px;
+    width:100px;
+}
+
+.buttons91 .deleteButton91 {
+    background-color: #dc3545; /* Red color for delete button */
+    color: white;
+  }
+
+.buttons91 button:hover {
+    background-color: #0056b3;
+}

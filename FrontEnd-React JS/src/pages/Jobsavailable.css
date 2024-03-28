@@ -1,0 +1,263 @@
+.card220 {
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 350px;
+    margin: 0 auto;
+    padding: 20px;
+    position: relative;
+    top: 100px;
+    left: -400px;
+    height: 350px;
+}
+
+.card-content220 {
+    text-align: center;
+}
+
+.card-content220 h2 {
+    color: #0d3767;
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+.card-content220 h3 {
+    color: #a41e12de;
+    font-size: 20px;
+    margin-bottom: 10px;
+    position: relative;
+    top: 13px;
+}
+
+.card-content220 p {
+    color: #090808;
+    font-size: 16px;
+}
+
+.job-info220 p {
+    text-align: left;
+    color: #040404;
+    font-size: 30px;
+}
+
+.salary220 {
+    font-size: 20px;
+    position: relative;
+    top: 20px;
+}
+
+.mode220 {
+    font-size: 20px;
+    top: 30px;
+    position: relative;
+}
+
+.time220 {
+    font-size: 20px;
+    top: 40px;
+    position: relative;
+}
+
+.shift220 {
+    font-size: 20px;
+    top: 50px;
+    position: relative;
+}
+
+
+
+.card2295 {
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 350px;
+    margin: 0 auto;
+    padding: 20px;
+    position: relative;
+    left: 60px;
+    height: 350px;
+   
+}
+
+.card-content2295 {
+    text-align: center;
+}
+
+.card-content2295 h2 {
+    color: #0d3767;
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+.card-content2295 h3 {
+    color: #a41e12de;
+    font-size: 20px;
+    margin-bottom: 10px;
+    position: relative;
+    top: 13px;
+}
+
+.card-content2295 p {
+    color: #090808;
+    font-size: 16px;
+}
+
+.job-info2295 p {
+    text-align: left;
+    color: #040404;
+    font-size: 30px;
+}
+
+.salary2295 {
+    font-size: 20px;
+    position: relative;
+    top: 20px;
+}
+
+.mode2295 {
+    font-size: 20px;
+    top: 30px;
+    position: relative;
+}
+
+.time2295 {
+    font-size: 20px;
+    top: 40px;
+    position: relative;
+}
+
+.shift2295 {
+    font-size: 20px;
+    top: 50px;
+    position: relative;
+}
+
+
+.card22913 {
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 350px;
+    margin: 0 auto;
+    padding: 20px;
+    position: relative;
+    margin-top:-350px;
+    left: 510px;
+    height: 350px;
+}
+
+.card-content22913 {
+    text-align: center;
+}
+
+.card-content22913 h2 {
+    color: #0d3767;
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+.card-content22913 h3 {
+    color: #a41e12de;
+    font-size: 20px;
+    margin-bottom: 10px;
+    position: relative;
+    top: 13px;
+}
+
+.card-content22913 p {
+    color: #090808;
+    font-size: 16px;
+}
+
+.job-info22913 p {
+    text-align: left;
+    color: #040404;
+    font-size: 30px;
+}
+
+.salary22913 {
+    font-size: 20px;
+    position: relative;
+    top: 20px;
+}
+
+.mode22913 {
+    font-size: 20px;
+    top: 30px;
+    position: relative;
+}
+
+.time22913 {
+    font-size: 20px;
+    top: 40px;
+    position: relative;
+}
+
+.shift22913 {
+    font-size: 20px;
+    top: 50px;
+    position: relative;
+}
+
+
+
+/* CSS for the "Open" button for card220 */
+.buttons220 {
+    text-align: center; /* Center align the button */
+    margin-top: 90px; /* Margin from the top */
+  }
+  
+  .buttons220 button {
+    background-color: #007bff; /* Blue color */
+    color: white; /* White text color */
+    padding: 10px 20px; /* Padding */
+    border: none; /* No border */
+    border-radius: 5px; /* Rounded corners */
+    cursor: pointer; /* Cursor on hover */
+    outline: none; /* No outline */
+  }
+  
+  .buttons220 button:hover {
+    background-color: #0056b3; /* Darker blue color on hover */
+  }
+  
+  /* CSS for the "Open" button for card2295 */
+  .buttons2295 {
+    text-align: center; /* Center align the button */
+    margin-top: 90px; /* Margin from the top */
+  }
+  
+  .buttons2295 button {
+    background-color: #007bff; /* Blue color */
+    color: white; /* White text color */
+    padding: 10px 20px; /* Padding */
+    border: none; /* No border */
+    border-radius: 5px; /* Rounded corners */
+    cursor: pointer; /* Cursor on hover */
+    outline: none; /* No outline */
+  }
+  
+  .buttons2295 button:hover {
+    background-color: #0056b3; /* Darker blue color on hover */
+  }
+  
+  /* CSS for the "Open" button for card22913 */
+  .buttons22913 {
+    text-align: center; /* Center align the button */
+    margin-top: 90px; /* Margin from the top */
+  }
+  
+  .buttons22913 button {
+    background-color: #007bff; /* Blue color */
+    color: white; /* White text color */
+    padding: 10px 20px; /* Padding */
+    border: none; /* No border */
+    border-radius: 5px; /* Rounded corners */
+    cursor: pointer; /* Cursor on hover */
+    outline: none; /* No outline */
+  }
+  
+  .buttons22913 button:hover {
+    background-color: #0056b3; /* Darker blue color on hover */
+  }
+  

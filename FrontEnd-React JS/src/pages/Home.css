@@ -1,0 +1,571 @@
+
+  
+  .full2{
+    background-repeat: no-repeat;
+    background-size: auto 80%; /* Decrease the height of the image to 80% of its original size */
+    background-position: bottom right; /* Position the image at the bottom right corner */
+    position: relative;
+    width: 100%;
+    height: 100vh;
+    top: 100px;
+    
+    background-image: url('https://apna.co/_next/image?url=https%3A%2F%2Fstorage.googleapis.com%2Fmumbai_apnatime_prod%2Fapna-home%2Fapna-hero.png&w=1920&q=75');
+}
+.home-container2 {
+  
+
+  margin: 0px;
+  padding: 0px; 
+  
+}
+
+.in2 {
+    position: relative; /* Set position to relative */
+    left: 100px; /* Adjust the left spacing */
+    font-size: 30px;
+    top:-5px;
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(16, 63, 16);
+}
+
+.dis2
+{
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    position: relative;
+    top:-50px;
+    left:100px;
+}
+.head2
+{
+    font-size: 40px;
+    font-family:Arial, Helvetica, sans-serif;
+    position: relative;
+    top:70px;
+    left:90px;
+}
+/* Home.css */
+
+.button-container2 {
+    margin-top: 20px;
+  }
+  
+  .search-button2 {
+    background-color:  rgb(16, 63, 16);
+    color: white;
+    padding: 10px 20px;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    left:100px;
+    top:50px;
+    position: relative;
+    height:50px;
+    width:180px;
+  }
+  
+  .search-button2:hover {
+    background-color:rgba(19, 20, 19, 0.789);
+  }
+  
+  .search-sentence2 {
+    font-size: 18px;
+    color: #666;
+    margin-top: 20px;
+  }
+  /* Home.css */
+
+.popular-searches2 {
+    font-size: 16px;
+    text-align: center;
+    color: #080808;
+    margin-top: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: baseline;
+    font-size: 70px;
+    position: relative;
+    top:550px;
+    left:130px;
+  }
+  .rectangle2 {
+    background-image: url("https://apna.co/_next/image?url=https%3A%2F%2Fstorage.googleapis.com%2Fmumbai_apnatime_prod%2Fapna-home%2Ffreshers-jobs.png&w=1920&q=50");
+    background-repeat: no-repeat;
+    background-size: auto 60%; /* Decrease the height of the image to 60% of its original size */
+    background-position: bottom right; /* Position the image at the bottom right corner */
+    position: relative;
+    width: 430px; /* Adjust the width as needed */
+    height: 340px; /* Adjust the height as needed */
+    background-color: #ffffff63; /* Change the color as needed */
+    position: relative;
+    top:260px;
+    left:600px;
+    border-radius: 30px;
+    transition: background-color 0.3s ease; /* Add transition effect */
+  }
+  
+  .rectangle2:hover {
+    background-color: #ffffff; /* Change the background color on hover */
+    box-shadow: 0px 0px 10px 5px rgba(0, 0, 0, 0.1); /* Add box shadow on hover */
+  }
+  
+  .trending2
+  {
+    position: relative;
+    font-size: 20px;
+    left:30px;
+    color: #666;
+    top:50px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  }
+  .freshers2
+  {
+    font-size: 35px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    position: relative;
+    top:70px;
+    left:30px;
+  }
+  
+  .rectangle22 {
+    background-image: url("https://apna.co/_next/image?url=https%3A%2F%2Fstorage.googleapis.com%2Fmumbai_apnatime_prod%2Fapna-home%2Fwork-from-home-jobs.png&w=1920&q=50");
+    background-repeat: no-repeat;
+    background-size: auto 60%; /* Decrease the height of the image to 60% of its original size */
+    background-position: bottom right; /* Position the image at the bottom right corner */
+    position: relative;
+    width: 420px; /* Adjust the width as needed */
+    height: 340px; /* Adjust the height as needed */
+    background-color: #ffffff63; /* Change the color as needed */
+    position: relative;
+    top:-80px;
+    left:1070px;
+    border-radius: 30px;
+    transition: background-color 0.3s ease; /* Add transition effect */
+    border-color: grey; /* Set border color to grey */
+  }
+  
+  .rectangle22:hover {
+    background-color: #ffffff; /* Change the background color on hover */
+    box-shadow: 0px 0px 10px 5px rgba(16, 16, 16, 0.1); /* Add box shadow on hover */
+  }
+  
+  .trending22
+  {
+    position: relative;
+    font-size: 20px;
+    left:30px;
+    color: #666;
+    top:50px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans
+  }
+  .wfh2
+  {
+    font-size: 35px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    position: relative;
+    top:70px;
+    left:30px;
+  }
+  .rectangle32{
+    background-image: url("https://apna.co/_next/image?url=https%3A%2F%2Fstorage.googleapis.com%2Fmumbai_apnatime_prod%2Fapna-home%2Fpart-time-jobs.png&w=1920&q=50");
+    background-repeat: no-repeat;
+    background-size: auto 60%; /* Decrease the height of the image to 60% of its original size */
+    background-position: bottom right; /* Position the image at the bottom right corner */
+    position: relative;
+    width: 420px; /* Adjust the width as needed */
+    height: 340px; /* Adjust the height as needed */
+    background-color: #ffffff63; /* Change the color as needed */
+    position: relative;
+    top:-5px;
+    left:130px;
+    border-radius: 30px;
+    transition: background-color 0.3s ease; /* Add transition effect */
+    border-color: grey; /* Set border color to grey */
+  }
+  
+  .rectangle32:hover {
+    background-color: #ffffff; /* Change the background color on hover */
+    box-shadow: 0px 0px 10px 5px rgba(16, 16, 16, 0.1); /* Add box shadow on hover */
+  }
+  
+  .trending32
+  {
+    position: relative;
+    font-size: 20px;
+    left:30px;
+    color: #666;
+    top:50px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans
+  }
+  .parttime2
+  {
+    font-size: 35px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    position: relative;
+    top:70px;
+    left:30px;
+  }
+  .rectangle42{
+    background-image: url("https://apna.co/_next/image?url=https%3A%2F%2Fstorage.googleapis.com%2Fmumbai_apnatime_prod%2Fapna-home%2Fwomen-jobs.png&w=1920&q=50");
+    background-repeat: no-repeat;
+    background-size: auto 60%; /* Decrease the height of the image to 60% of its original size */
+    background-position: bottom right; /* Position the image at the bottom right corner */
+    position: relative;
+    width: 420px; /* Adjust the width as needed */
+    height: 340px; /* Adjust the height as needed */
+    background-color: #ffffff63; /* Change the color as needed */
+    position: relative;
+    top:-350px;
+    left:600px;
+    border-radius: 30px;
+    transition: background-color 0.3s ease; /* Add transition effect */
+    border-color: grey; /* Set border color to grey */
+  }
+  
+  .rectangle42:hover {
+    background-color: #ffffff; /* Change the background color on hover */
+    box-shadow: 0px 0px 10px 5px rgba(16, 16, 16, 0.1); /* Add box shadow on hover */
+  }
+  
+  .trending42
+  {
+    position: relative;
+    font-size: 20px;
+    left:30px;
+    color: #666;
+    top:50px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans
+  }
+  .womenjobs2
+  {
+    font-size: 35px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    position: relative;
+    top:70px;
+    left:30px;
+  }
+  .rectangle52{
+    background-image: url("https://apna.co/_next/image?url=https%3A%2F%2Fstorage.googleapis.com%2Fmumbai_apnatime_prod%2Fapna-home%2Finternational-jobs.png&w=1920&q=50");
+    background-repeat: no-repeat;
+    background-size: auto 60%; /* Decrease the height of the image to 60% of its original size */
+    background-position: bottom right; /* Position the image at the bottom right corner */
+    position: relative;
+    width: 420px; /* Adjust the width as needed */
+    height: 340px; /* Adjust the height as needed */
+    background-color: #ffffff63; /* Change the color as needed */
+    position: relative;
+    top:-690px;
+    left:1070px;
+    border-radius: 30px;
+    transition: background-color 0.3s ease; /* Add transition effect */
+    border-color: grey; /* Set border color to grey */
+  }
+  
+  .rectangle52:hover {
+    background-color: #ffffff; /* Change the background color on hover */
+    box-shadow: 0px 0px 10px 5px rgba(16, 16, 16, 0.1); /* Add box shadow on hover */
+  }
+  
+  .trending52
+  {
+    position: relative;
+    font-size: 20px;
+    left:30px;
+    color: #666;
+    top:50px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans
+  }
+  .internationaljobs2
+  {
+    font-size: 35px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    position: relative;
+    top:70px;
+    left:30px;
+  }
+.jobopenings2
+{
+    font-size: 30px;
+    position: relative;
+    top:-600px;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.rectangle62 {
+    background-image: url("https://apna.co/_next/image?url=https%3A%2F%2Fstorage.googleapis.com%2Fmumbai_apnatime_prod%2Fapna-home%2Fcompanies%2Fbajaj.png&w=1920&q=75");
+    background-repeat: no-repeat;
+    background-size: auto 10%; /* Decrease the height of the image to 10% of its original size */
+    background-position: top center; /* Position the image at the top center */
+    position: relative;
+    width: 420px; /* Adjust the width as needed */
+    height: 340px; /* Adjust the height as needed */
+    background-color: #ffffff63; /* Change the color as needed */
+    position: relative;
+    top: -530px; /* Adjust the value to bring the image down */
+    left: 130px;
+    border-radius: 30px;
+    transition: background-color 0.3s ease; /* Add transition effect */
+    border-color: grey; /* Set border color to grey */
+}
+
+  
+  .rectangle62:hover {
+    background-color: #ffffff; /* Change the background color on hover */
+    box-shadow: 0px 0px 10px 5px rgba(16, 16, 16, 0.1); /* Add box shadow on hover */
+  }
+  
+  .bajaj12
+  {
+    position: relative;
+    font-size: 20px;
+    left:50px;
+    color: #100f0f;
+    top:120px;
+    font-family:Georgia, 'Times New Roman', Times, serif
+  }
+  .bajaj22
+  {
+    font-size: 20px;
+    font-family:cursive;
+    position: relative;
+    top:150px;
+    left:50px;
+  }
+  .rectangle72{
+    background-image: url("https://apna.co/_next/image?url=https%3A%2F%2Fstorage.googleapis.com%2Fmumbai_apnatime_prod%2Fapna-home%2Fcompanies%2Fic-paytm.png&w=1920&q=75");
+    background-repeat: no-repeat;
+    background-size: auto 10%; /* Decrease the height of the image to 10% of its original size */
+    background-position: top center; /* Position the image at the top center */
+    position: relative;
+    width: 420px; /* Adjust the width as needed */
+    height: 340px; /* Adjust the height as needed */
+    background-color: #ffffff63; /* Change the color as needed */
+    position: relative;
+    top: -870px; /* Adjust the value to bring the image down */
+    left: 600px;
+    border-radius: 30px;
+    transition: background-color 0.3s ease; /* Add transition effect */
+    border-color: grey; /* Set border color to grey */
+}
+
+  
+  .rectangle72:hover {
+    background-color: #ffffff; /* Change the background color on hover */
+    box-shadow: 0px 0px 10px 5px rgba(16, 16, 16, 0.1); /* Add box shadow on hover */
+  }
+  
+  .paytm12
+  {
+    position: relative;
+    font-size: 20px;
+    left:50px;
+    color: #100f0f;
+    top:120px;
+    font-family:Georgia, 'Times New Roman', Times, serif
+  }
+  .paytm22
+  {
+    font-size: 20px;
+    font-family:cursive;
+    position: relative;
+    top:150px;
+    left:50px;
+  }
+  .rectangle82 {
+    background-image: url("https://apna.co/_next/image?url=https%3A%2F%2Fapna-organization-logos.gumlet.io%2Fproduction%2F322333%3Fw%3D128&w=1920&q=75");
+    background-repeat: no-repeat;
+    background-size: auto 25%; /* Decrease the height of the image to 10% of its original size */
+    background-position: top center; /* Position the image at the top center */
+    position: relative;
+    width: 420px; /* Adjust the width as needed */
+    height: 340px; /* Adjust the height as needed */
+    background-color: #ffffff63; /* Change the color as needed */
+    position: relative;
+    top: -1210px; /* Adjust the value to bring the image down */
+    left: 1070px;
+    border-radius: 30px;
+    transition: background-color 0.3s ease; /* Add transition effect */
+    border-color: grey; /* Set border color to grey */
+}
+
+  
+  .rectangle82:hover {
+    background-color: #ffffff; /* Change the background color on hover */
+    box-shadow: 0px 0px 10px 5px rgba(16, 16, 16, 0.1); /* Add box shadow on hover */
+  }
+  
+  .zomato12
+  {
+    position: relative;
+    font-size: 20px;
+    left:50px;
+    color: #100f0f;
+    top:120px;
+    font-family:Georgia, 'Times New Roman', Times, serif
+  }
+  .zomato22
+  {
+    font-size: 20px;
+    font-family:cursive;
+    position: relative;
+    top:150px;
+    left:50px;
+  }
+  .rectangle92 {
+    background-image: url("https://storage.googleapis.com/mumbai_apnatime_prod/apna-home/two-people.png");
+    background-repeat: no-repeat;
+    background-size: auto 100%; /* Decrease the height of the image to 10% of its original size */
+    background-position:bottom-left; /* Position the image at the top center */
+    position: relative;
+    width: 1200px; /* Adjust the width as needed */
+    height: 440px; /* Adjust the height as needed */
+    background-color: #ffffff63; /* Change the color as needed */
+    position: relative;
+    top: -1100px; /* Adjust the value to bring the image down */
+    left: 200px;
+    border-radius: 30px;
+    transition: background-color 0.3s ease; /* Add transition effect */
+    border-color: grey; /* Set border color to grey */
+}
+.rectangle92:hover {
+    background-color: #ffffff; /* Change the background color on hover */
+    box-shadow: 0px 0px 10px 5px rgba(16, 16, 16, 0.1); /* Add box shadow on hover */
+  }
+.jobquest2
+{
+    position: relative;
+    font-size: 45px;
+    left:600px;
+    top:90px;
+    color: rgb(16, 63, 16);
+}
+.wanttohire2
+{
+    position: relative;
+    font-size: 50px;
+    left:670px;
+    top:130px;
+    color: rgb(16, 63, 16);
+}
+.bestcan2
+{
+    position: relative;
+    font-size: 25px;
+    left:590px;
+    top:170px;
+    color:#080808;
+}
+.button-container2 {
+  position: relative;
+}
+
+.search-button2 {
+  background-color: #0c310c;
+  color: white;
+  padding: 12px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.dropdown-content {
+  display: none;
+  position: relative;
+  background-color: #f9f9f9;
+  min-width: 200px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+  border-radius: 5px;
+  width: 90px;
+  top:50px;
+  left:90px;
+  
+
+}
+
+.dropdown-content button {
+  color: rgb(5, 4, 4);
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+  transition: background-color 0.3s;
+  width: 200px;
+  background-color: rgba(34, 3, 30, 0.192);
+  position: relative;
+  top:0px;
+  background-color: white;
+}
+
+.dropdown-content button:hover {
+  background-color: #ddd;
+}
+
+.dropdown:hover .dropdown-content {
+  display: block;
+}
+.microsoft
+{
+  position: relative;
+  top:-1000px;
+  left:250px;
+  
+
+}
+.amazon
+{
+  position: relative;
+  top:-1300px;
+  left:680px;
+
+}
+.zoho
+{
+  position: relative;
+  top:-1605px;
+  left:1100px;
+
+}
+.go
+{
+  position: relative;
+  top:-1505px;
+  left:460px;
+
+}
+.benz
+{
+    position:absolute;
+    padding: auto;
+    margin:0 10px;
+    box-shadow:5px 5px 5px rgba(0, 0, 0, 0.813);
+    top:3190px;
+    left:940px;
+    transition:1s;
+    width:300px;
+}
+.benz img{
+    display:block;
+    width:100%;
+    border-radius:5px;
+}
+.benz:hover{
+    transform:scale(1.1);
+    z-index:2;
+}
+.top
+{
+    font-size: 30px;
+    position: relative;
+    top:-1050px;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    left:70px;
+}
+.dropdown-content a{
+  text-decoration: none;
+  color: black;
+}
+
+

@@ -1,0 +1,110 @@
+/* nav.css */
+
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color:rgb(49, 39, 58);
+    color: #ffffff;
+    padding: 10px 20px;
+    position: relative;
+    top:-100px;
+    left:-30px;
+    height:60px;
+    position: relative;
+    font-size: 25px;;
+    width: 1569px;
+  }
+  .navbar-logo {
+    border-radius: 30px;
+  }
+  
+  .navbar-menu {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+  }
+  
+  .navbar-menu li {
+    margin-right: 20px;
+  }
+  
+  .navbar-menu li a {
+    color: #fef9f9;
+    text-decoration: none;
+    font-size: 20px;
+  }
+  
+  .navbar-toggle {
+    display: none;
+    flex-direction: column;
+    justify-content: space-between;
+    width: 30px;
+    height: 20px;
+    cursor: pointer;
+  }
+  
+  .bar {
+    width: 100%;
+    height: 3px;
+    background-color: #fff;
+  }
+  
+  .content {
+    padding: 20px;
+  }
+  
+  @media only screen and (max-width: 768px) {
+    .navbar-menu {
+      display: none;
+      flex-direction: column;
+      align-items: flex-start;
+      width: 100%;
+      background-color: #333;
+      position: absolute;
+      top: 60px;
+      left: 0;
+      padding: 20px;
+    }
+  
+    .navbar-menu li {
+      margin: 10px 0;
+    }
+  
+    .navbar-toggle {
+      display: flex;
+    }
+  
+    .active {
+      display: flex;
+    }
+  }
+/* nav.css */
+
+/* nav.css */
+
+.navbar-menu li a {
+  text-decoration: none;
+  font-size: 20px;
+  display: inline-block;
+  overflow: hidden;
+}
+
+.navbar-menu li a span {
+  color: #fef9f9;
+  display: inline-block;
+  transition: transform 0.2s ease, color 0.2s ease; /* Adding transition for both transform and color */
+}
+
+.navbar-menu li a:hover span {
+  transform: scale(1.1); /* Zoom in effect */
+  color: #ffca28; /* Change to the desired hover color */
+}
+.usericon
+{
+   position: relative;
+   left:-10px;
+   top:-4px;
+  
+}

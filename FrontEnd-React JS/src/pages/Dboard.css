@@ -1,0 +1,129 @@
+.da
+{
+    font-size: 30px;
+    position: relative;
+    left:700px;
+    top:50px;
+}
+.interviews-card {
+    background-color: #ffffff;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    width: 300px;
+    margin: 20px auto;
+    text-align: center;
+    position: relative;
+    top:100px;
+    left:-300px;
+    background-color: rgb(156, 169, 15);
+  }
+  
+  .interviews-card .hea h2 {
+    font-size: 24px;
+    color: #333333;
+    margin-bottom: 10px;
+    color: rgb(5, 13, 12);
+  }
+  .cou
+  {
+    position: relative;
+    font-size: 30px;
+    color: rgba(255, 255, 255, 0.773);
+    top:-25px;
+  }
+  
+
+  .interviews-card2 {
+    background-color: #ffffff;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    width: 300px;
+    margin: 20px auto;
+    text-align: center;
+    position: relative;
+    top:-85px;
+    left:70px;
+    background-color: rgb(56, 158, 235);
+  }
+  
+  .interviews-card2 .hea2 h2 {
+    font-size: 24px;
+    color: #333333;
+    margin-bottom: 10px;
+    color: rgb(5, 13, 12);
+  }
+  .cou2
+  {
+    position: relative;
+    font-size: 30px;
+    color: rgba(255, 255, 255, 0.773);
+    position: relative;
+    top:-25px;
+  }
+  
+
+  .interviews-card3 {
+    background-color: #ffffff;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    width: 300px;
+    margin: 20px auto;
+    text-align: center;
+    position: relative;
+    top:-270px;
+    left:430px;
+    height: 160px;
+    background-color: rgb(137, 6, 177);
+  }
+  
+  .interviews-card3 .hea2 h2 {
+    font-size: 24px;
+    color: #333333;
+    margin-bottom: 10px;
+    color: rgb(5, 13, 12);
+  }
+  .cou3
+  {
+    position: relative;
+    font-size: 30px;
+    color: rgba(255, 255, 255, 0.773);
+    top:-17px;
+  }
+  
+
+  .as 
+  {
+    position: relative;
+    left:-50px;
+    top:25px;
+
+  }
+  .is 
+  {
+    position: relative;
+    left:-50px;
+    top:25px;
+  }
+  .pv 
+  {
+    position: relative;
+    left:-50px;
+    top:30px;
+  }
+
+  .bar-graph-container {
+    margin-top: 20px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+    position: relative;
+    left:500px;
+    height: 540px;
+    width: 600px;
+    top:-200px;
+  }
+  

@@ -1,0 +1,60 @@
+.user-page {
+    position: absolute; /* Change position to relative */
+    display: flex; /* Use flexbox for layout */
+    justify-content: center; /* Center content horizontally */
+    align-items: flex-start;
+    margin-left:0px;/* Align items at the start of the cross axis (top) */
+}
+
+.content-container {
+    display: flex;
+}
+
+.admin-dashboard {
+    /* Your styles for AdminDashboard */
+    flex: 0 0 auto;
+     /* Fix width of the sidebar */
+}
+
+.booking-information {
+    /* Your styles for booking information */
+    margin-left: 300px;
+    margin-top:100px; /* Add space between sidebar and booking information */
+    position: relative;
+    
+}
+.ud
+{
+    position: relative;
+    font-size: 30px;
+    left:390px;
+    color: rgba(79, 130, 19, 0.804);
+}
+
+table {
+    width: 1000px;
+    border-collapse: collapse;
+    border-spacing: 0;
+    position: relative;
+    top:100px;
+    left:50px;
+}
+
+th, td {
+    padding: 10px;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+}
+
+th {
+    background-color: #f2f2f2;
+    font-weight: bold;
+}
+
+tr:nth-child(even) {
+    background-color: #f2f2f2;
+}
+
+tr:hover {
+    background-color: #ddd;
+}

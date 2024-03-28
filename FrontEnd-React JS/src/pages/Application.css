@@ -1,0 +1,54 @@
+.appli
+{
+    position: relative;
+    font-size: 30px;
+    left:720px;
+    top:30px;
+    color: rgba(79, 130, 19, 0.804);
+}
+.application-form {
+    margin: 20px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #f9f9f9;
+    width:450px;
+    height: 550px;
+    position: relative;
+    left:570px;
+    top:30px;
+   
+  }
+  
+  .application-form label {
+    display: block;
+    margin-bottom: 10px;
+  }
+  
+  .application-form input[type="text"] {
+    width: 100%;
+    padding: 8px;
+    margin-top: 4px;
+    margin-bottom: 12px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+  }
+  
+  .application-form button[type="submit"] {
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    float: right;
+    position: relative;
+    left:-150px;
+    font-size: 17px;
+  }
+  
+  .application-form button[type="submit"]:hover {
+    background-color: #45a049;
+  }
+  

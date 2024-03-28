@@ -1,0 +1,113 @@
+/* Login.css */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.loginContainer13 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-image: linear-gradient(rgba(232, 230, 233, 0.047), rgba(145, 143, 144, 0.184)), url('https://media.istockphoto.com/id/1496115017/photo/modern-asian-businessman-with-high-confidence-committed-to-working-together-as-a-harmonious.jpg?s=612x612&w=0&k=20&c=_TmW6BIQFtD6RCgoATBXCJts16wJ4QgPr-UBPcz3A4U=');
+    background-size: cover;
+}
+
+.loginForm13 {
+    width: 400px;
+    height: 490px;
+    left:-10px;
+    position: relative;
+    text-align: center;
+    background-color: rgba(255, 255, 255, 0.77); /* Transparent white background */
+    padding: 20px; /* Add padding for better appearance */
+    border-radius: 10px; /* Add border radius for rounded corners */
+}
+
+.user-icon13 {
+    font-size: 3rem;
+    color: #333;
+    margin-bottom: 20px;
+}
+
+.title13 {
+    font-size: 2rem;
+    margin-bottom: 20px;
+}
+
+.input-field13 {
+    position: relative;
+    margin-bottom: 20px;
+}
+
+.input-icon13 {
+    position: absolute;
+    top: 50%;
+    left: 20px;
+    transform: translateY(-50%);
+    color: #333;
+}
+
+.LoginInput13 {
+    width: calc(100% - 40px); /* Adjust input width to accommodate icon */
+    border: none;
+    border-bottom: 2px solid #02050a; /* Change border color */
+    padding-left: 30px;
+    font-size: 1rem;
+    padding-bottom: 5px;
+    background-color: transparent; /* Transparent background */
+    color: #231958; /* Text color */
+    outline: none; /* Remove outline */
+}
+
+.LoginInput13::placeholder {
+    color: black; /* Enhanced placeholder text color */
+}
+
+/* Add focus effect */
+.LoginInput13:focus {
+    border-bottom: 2px solid #0c0d0e; /* Change border color on focus */
+}
+
+.btn13{
+    width: 100%;
+    background-color: #5995fd;
+    border: none;
+    outline: none;
+    height: 49px;
+    border-radius: 49px;
+    color: #fff;
+    text-transform: uppercase;
+    font-weight: 600;
+    margin: 10px 0;
+    font-size: 17px;
+    cursor: pointer;
+    transition: 0.5s;
+}
+
+.btn13:hover {
+    background-color: #4d84e2; /* Change background color on hover */
+}
+
+.register-link13{
+    font-size: 17px;
+}
+
+.register-link13 a {
+    color: #0f3370;
+    text-decoration: none;
+}
+
+.register-link13 a:hover {
+    text-decoration: underline;
+}
+.btn13 a{
+    text-decoration: none;
+    color: white;
+}
+.input-icon13.phone {
+    transform: scaleX(-1);
+    top:0px;
+  }
+  

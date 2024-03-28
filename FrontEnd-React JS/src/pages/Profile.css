@@ -1,0 +1,292 @@
+.rectangle234 {
+    background-color: #cccccc62; /* Background color of the rectangle */
+    width: 200px; /* Width of the rectangle */
+    height: 680px; /* Height of the rectangle */
+    margin-right: 20px; /* Margin to separate from the navigation */
+    position: relative;
+    left:0px;
+    top:-100px;
+  }
+  .icon
+  {
+    position: relative;
+    top:30px;
+    left:30px;
+}
+.name
+{
+    position: relative;
+    top:40px;
+    left:45px;
+}
+.em{
+    position: relative;
+    top:45px;
+    left:25px;
+}
+.no{
+    position: relative;
+    top:50px;
+    left:45px;
+    font-size: 20px;
+}
+.rectangle23{
+    position: relative;
+    background-color: rgb(93, 89, 89);
+    height:150px;
+    width: 150px;
+    top:30px;
+    border-radius: 200px;
+    left:30px;
+
+}
+.applied
+{
+    position: relative;
+    left:200px;
+    font-size: 30px;
+    top:-750px;
+    left:700px;
+}
+.card {
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 350px;
+    margin: 0 auto;
+    padding: 20px;
+    position: relative;
+    top:-690px;
+    left:-300px;
+    height: 330px;
+  }
+  
+  .card-content {
+    text-align: center;
+  }
+  
+  .card-content h2 {
+    color: #0d3767;
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+  
+  .card-content h3 {
+    
+    color: #a41e12de;
+    font-size: 20px;
+    margin-bottom: 10px;
+    position: relative;
+    top:13px;
+  }
+  
+  .card-content p {
+    color: #090808;
+    font-size: 16px;
+  }
+  .job-info p{
+    text-align: left;
+    color: #040404;
+    font-size: 30px;
+  }
+  .salary
+  {
+    font-size: 20px;
+    position: relative;
+    top:20px;
+  }
+  .mode
+  {
+    font-size: 20px;
+    top:30px;
+    position: relative;
+  }
+  .time
+  {
+    font-size: 20px;
+    top:40px;
+    position: relative;
+  }
+  .shift
+  {
+    font-size: 20px;
+    top:50px;
+    position: relative;
+  }
+
+
+  .card1 {
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 350px;
+    margin: 0 auto;
+    padding: 20px;
+    position: relative;
+    top:-1020px;
+    left:100px;
+    height: 330px;
+  }
+  
+  .card-content1 {
+    text-align: center;
+  }
+  
+  .card-content1 h2 {
+    color: #0d3767;
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+  
+  .card-content1 h3 {
+    
+    color: #a41e12de;
+    font-size: 20px;
+    margin-bottom: 10px;
+    position: relative;
+    top:13px;
+  }
+  
+  .card-content1 p {
+    color: #090808;
+    font-size: 16px;
+  }
+  .job-info1 p{
+    text-align: left;
+    color: #040404;
+    font-size: 30px;
+  }
+  .salary1
+  {
+    font-size: 20px;
+    position: relative;
+    top:20px;
+  }
+  .mode1
+  {
+    font-size: 20px;
+    top:30px;
+    position: relative;
+  }
+  .time1
+  {
+    font-size: 20px;
+    top:40px;
+    position: relative;
+  }
+  .shift1
+  {
+    font-size: 20px;
+    top:50px;
+    position: relative;
+  }
+
+
+  .card2 {
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 350px;
+    margin: 0 auto;
+    padding: 20px;
+    position: relative;
+    top:-1350px;
+    left:500px;
+    height: 330px;
+  }
+  
+  .card-content2 {
+    text-align: center;
+  }
+  
+  .card-content2 h2 {
+    color: #0d3767;
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+  
+  .card-content2 h3 {
+    
+    color: #a41e12de;
+    font-size: 20px;
+    margin-bottom: 10px;
+    position: relative;
+    top:13px;
+  }
+  
+  .card-content2 p {
+    color: #090808;
+    font-size: 16px;
+  }
+  .job-info2 p{
+    text-align: left;
+    color: #040404;
+    font-size: 30px;
+  }
+  .salary2
+  {
+    font-size: 20px;
+    position: relative;
+    top:20px;
+  }
+  .mode2
+  {
+    font-size: 20px;
+    top:30px;
+    position: relative;
+  }
+  .time2
+  {
+    font-size: 20px;
+    top:40px;
+    position: relative;
+  }
+  .shift2
+  {
+    font-size: 20px;
+    top:50px;
+    position: relative;
+  }
+/* Profile.css */
+.card-content button {
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  padding: 8px 16px;
+  border-radius: 4px;
+  cursor: pointer;
+  margin-top: 70px;
+  width:100px;
+}
+
+.card-content button:hover {
+  background-color: #0056b3;
+}
+.card-content1 button {
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  padding: 8px 16px;
+  border-radius: 4px;
+  cursor: pointer;
+  margin-top: 70px;
+  width:100px;
+}
+
+.card-content1 button:hover {
+  background-color: #0056b3;
+}
+.card-content2 button {
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  padding: 8px 16px;
+  border-radius: 4px;
+  cursor: pointer;
+  margin-top: 70px;
+  width:100px;
+}
+
+.card-content2 button:hover {
+  background-color: #0056b3;
+}

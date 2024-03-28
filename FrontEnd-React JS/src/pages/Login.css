@@ -1,0 +1,109 @@
+/* Reset CSS */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* General styles */
+.loginContainer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background: url('https://cdn.apna.co/employerDashboard_FE/empowerment.webp') no-repeat;
+    background-size: cover;
+}
+
+.loginForm {
+    width: 400px;
+    height: 400px;
+    position: relative;
+    text-align: center;
+    background-color: rgba(255, 255, 255, 0.712);
+    padding: 20px;
+    border-radius: 10px;
+    left:-500px;
+}
+
+/* Element styles */
+.user-icon {
+    font-size: 3rem;
+    color: #333;
+    margin-bottom: 20px;
+}
+
+.title {
+    font-size: 2rem;
+    margin-bottom: 20px;
+}
+
+.input-field {
+    position: relative;
+    margin-bottom: 20px;
+}
+
+.input-icon {
+    position: absolute;
+    top: 50%;
+    left: 20px;
+    transform: translateY(-50%);
+    color: #333;
+}
+
+.LoginInput {
+    width: calc(100% - 40px);
+    border: none;
+    border-bottom: 2px solid #02050a;
+    padding-left: 30px;
+    font-size: 1rem;
+    padding-bottom: 5px;
+    background-color: transparent;
+    color: #050313;
+    outline: none;
+}
+
+.LoginInput::placeholder {
+    color: black;
+}
+
+/* Add focus effect */
+.LoginInput:focus {
+    border-bottom: 2px solid #060708;
+}
+
+.btn {
+    width: 100%;
+    background-color: #5995fd;
+    border: none;
+    outline: none;
+    font-size: 15px;
+    height: 49px;
+    border-radius: 49px;
+    color: #fff;
+    text-transform: uppercase;
+    font-weight: 600;
+    margin: 10px 0;
+    cursor: pointer;
+    transition: 0.5s;
+    position: relative;
+    top: -5px;
+}
+
+.btn:hover {
+    background-color: #4d84e2;
+}
+
+.register-link {
+    font-size: 17px;
+    position: relative;
+}
+
+.register-link a {
+    color: #325288;
+    text-decoration: none;
+}
+
+.register-link a:hover {
+    text-decoration: underline;
+}
